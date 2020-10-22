@@ -1,5 +1,5 @@
 # Testing Markdown
-Just a place to mees around with markdown.
+Just a place to mess around with markdown.
 
 ## And see...
 How far
